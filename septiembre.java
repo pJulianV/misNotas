@@ -74,4 +74,4 @@
 
 // Requerimientos del negocio, del software, del usuario
 
-// Realizables, Necesarios, No ambiguos, Verificables
+// Realizables, Necesarios, No ambiguos, Verificables, Consistente, Seguible - Trazable
