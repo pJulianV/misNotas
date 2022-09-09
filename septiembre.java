@@ -22,3 +22,42 @@
 
 // Implementation
 // Pruebas (de componentes, unitarias, de humo) => Ajustes => Puesta en Funcionamiento
+
+// * 08.08.JU
+
+// Ingenieria de requerimientos
+
+// Cumplir requerimientos obvios, como seguridad, funcionalidades o diseño de calidad
+
+// Proyectos de marcha funebre la mitad del personal, presupuesto y plazo y se exigue el doble de funcionalidad, ¿fracaso casi seguro?
+// Una buena gestion:
+// ! Trabajo en equipo
+// - Contratar a las personas adecuadas
+// - Asignarlas a los trabajos adecuados
+// - Mantenerlas motivadas
+// - Ayudar a sus equipos a integrarse y permanecer integrados
+
+// Un director de proyectos
+// - Confia en sus tripas(instinto)
+// - Lidera con es corazon ( poniendose en los zapatos del otro y tener tacto)
+// - Contruye alma en la organizacion (Hacer que los integrantes conecten mejor)
+// - Desarrolla olfato a los problemas (Saber indentificar y buscar soluciones a problemas)
+
+// Trabajar mas de 80 horas semanales no mejora la productividad
+// Tambien se puede perder produccion por cambiar el personal
+
+// Proyectos que no estan bien estructurados pueden afectar al proyecto principal
+// Algunos esperan que se firme contrato o se compren requerimientos para empezar a planear la arquitectura y cosas importantes
+// Exiten ocaciones en los que las negociaciones son largas y requiren cambios constantes
+
+//Recomendaciones
+// Los equipos de preventa deben documentar todos los compromisos y
+// mantenerlos actualizados en "tiempo real" en un lugar accesible, con
+// control de cambios y con capacidad de trazabilidad a funcionalidad del
+// producto.
+
+// Debe existir un proceso de gestión de cambios durante la fase de
+// preventa que permita que las negociaciones sean ágiles sin perder el
+// control sobre el contenido de los compromisos.
+
+// ! Ley de Parkinson
