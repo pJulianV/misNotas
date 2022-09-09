@@ -61,3 +61,17 @@
 // control sobre el contenido de los compromisos.
 
 // ! Ley de Parkinson
+
+// Diseño: Como del sistema
+// Requerimientos: Explica que es lo que se busca que el programa haga (Que del sistema)
+// Funcionales: ¿Que debe hacer? - Se cumplen ciertas condiciones
+//      - Caracteriscas de la aplicacion, que ayudena solucionar la necesidad
+//      - Comoda y visual °<°
+// No funcionales:
+//      - Todo lo que la aplicacion que necesita para funcionar pero que el usuario no ve
+//      - Disponibilidad, y mantenibilidad 
+// Restricciones:
+
+// Requerimientos del negocio, del software, del usuario
+
+// Realizables, Necesarios, No ambiguos, Verificables
