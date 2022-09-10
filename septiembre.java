@@ -91,4 +91,18 @@
 //      1. 
 // Justificacion: Significado, Originalidad, Aplicabilidad, Interes Social, Aportes Teoricos y Factibilidad
 
-// Metodologias Agiles: Kanban, Scrum, Lean
+// Metodologias Agiles: Kanban, Scrum, Lean, Spren
+
+// SCRUM: Se divide en Esprents (Cada 2 semanas) (Cada uno con tareas y un tiempo estipulado)
+// Para entornos cambiantes, que requieren actualizaciones y correciones durante el desarrollo
+// Planificacion: Establecer tareas y descartar las que no sean priridad (Objetivos pequeños)
+// Scrum mater, Product Owner, equipo de desarrollo(Scrum team) y cliente
+
+// Caracteristicas: 
+// Comunicacion (reuniones), 
+// Tiempo (Fechas limites)(2-4 Semanas)(Prototipo funcional)
+// Entregables (Resultados => Funcionalidades, productos, prototipos etc)
+
+// Fase 1: Sprint Planning (Planear cuantos sprints y cuantos duraran) 
+//      - Se establece carga de trabajo
+// Daily Scrum Meeting => Reflexion matutina
