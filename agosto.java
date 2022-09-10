@@ -1,6 +1,4 @@
-package aNotas;
 // * 12.08.VI
-
     // ? Como Elaborar un diagrama de clases
     // ? Paso 1: Extraer los actores que serian las clases
     // ? Paso 2: 

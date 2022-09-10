@@ -75,3 +75,20 @@
 // Requerimientos del negocio, del software, del usuario
 
 // Realizables, Necesarios, No ambiguos, Verificables, Consistente, Seguible - Trazable
+
+// * 09.09.VI Presentacion 
+//Semana 1 - Sesion 3 - Ciclo 3
+
+// Definicion del proyecto
+
+// Aplicacion web => Software montado en servidor web
+
+// Definicion del proyecto
+
+// Objetivos generales: Verbo en infinitivo ¿Que cosa?, ¿Como? y ¿Porque?
+// Objetivos especificos: Verbo en infinitivo, Concreto, Medible, Alcanzable, Relevante, Limitado en el tiempo
+// Descripcion del proyecto: 
+//      1. 
+// Justificacion: Significado, Originalidad, Aplicabilidad, Interes Social, Aportes Teoricos y Factibilidad
+
+// Metodologias Agiles: Kanban, Scrum, Lean
