@@ -110,3 +110,28 @@
 // * 10.09.SA
 
 // Desarrollo de Software SCRUM
+
+// * 14.09.MI
+
+// Sistema de control de versiones
+
+// Repositorios de Código Alojamiento – Control de versiones
+
+// GitLab
+//      - git clone < url
+//      - git checkout < url
+//      - git branch nombreRama
+//      - git checkout nombreRama
+//      - git commit m “ descripcion
+//      - git push u origin nombreRama
+
+// https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/
+
+// Comandos en imagenes ciclo 3
+
+// se uso: add, commit
+
+// cd existing_repo
+// git remote add origin https://gitlab.com/pJulianV/mi-web-personal.git
+// git branch -M main
+// git push -uf origin main
