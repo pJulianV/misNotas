@@ -106,3 +106,7 @@
 // Fase 1: Sprint Planning (Planear cuantos sprints y cuantos duraran) 
 //      - Se establece carga de trabajo
 // Daily Scrum Meeting => Reflexion matutina
+
+// * 10.09.SA
+
+// Desarrollo de Software SCRUM
