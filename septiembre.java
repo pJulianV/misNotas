@@ -135,3 +135,22 @@
 // git remote add origin https://gitlab.com/pJulianV/mi-web-personal.git
 // git branch -M main
 // git push -uf origin main
+
+// * 15.09.JU
+
+// Despues de poder ingresar: git clone "link"
+
+// cd "nombre carpeta"
+
+// git add "nombre de archivo"
+
+// git commit -a -m "The Commit message" ó git commit -m "The Commit message"
+
+// git push  para subir a gitlab / github
+
+// ! Se Adjunto Taller GitLab Con indicaciones
+
+// * 16.09.VI
+
+// Rafael, Julian intentara usar "Concepts" de la Microsoft Store para hacer:
+// Mapas de chunks relacionales
