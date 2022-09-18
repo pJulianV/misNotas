@@ -150,7 +150,36 @@
 
 // ! Se Adjunto Taller GitLab Con indicaciones
 
+
 // * 16.09.VI
 
 // Rafael, Julian intentara usar "Concepts" de la Microsoft Store para hacer:
-// Mapas de chunks relacionales
+// Mapas de chunks relacionales - No se como agregar texto >:(
+
+// Arquitectura WEB Y HTML5
+// Recomendaciones:
+// • Establecer lo que quieres mostrar.
+// • Definir los objetivos de los usuarios.
+// • ¿Quiénes son las personas que utilizarán el sitio
+// web?
+// • ¿Qué van a hacer estos usuarios en la web?
+// • ¿Cuáles son sus metas?
+
+Recomendaciones:
+• Analizar competidores.
+• Fíjate en cómo han organizado ellos la información en
+su web:
+• ¿Dónde muestran la información?
+• ¿Cuáles son sus categorías?
+• ¿Tienen una web fácil de navegar?
+• ¿Qué es lo que mejor hacen y qué se puede mejorar?
+• Hacer un estudio de palabras clave para mejorar el
+posicionamiento.
+• Diseñar la arquitectura de información
+file:///C:/Users/USUARIO/OneDrive/Escritorio/Tec%20Prog/C3-%20Software.%20Dev/C3-G53-DESARROLLO%20DE%20SOFTWARE/Presentaciones/HTML_PresentacionFormador.pdf
+
+Nomenclatura
+
+17.09.SA
+
+Un objetivo es un objetivo si responde un ¿Que? ¿Como? ¿Para Que? y ¿Porques?
