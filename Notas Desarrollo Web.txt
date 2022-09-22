@@ -1,0 +1,7 @@
+19.09.LU
+
+HTML puede:
+* ! Todo el texto, imagenes, videos, etc en general
+* ! Crear formularios
+* ! Crear enlaces en el texto u o imagenes a un link externo
+* Crear tablas 

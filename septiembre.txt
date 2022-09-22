@@ -183,3 +183,16 @@ Nomenclatura
 17.09.SA
 
 Un objetivo es un objetivo si responde un ¿Que? ¿Como? ¿Para Que? y ¿Porques?
+
+21.09.MI
+DDL (Lenguaje de definicion de datos)
+* create
+* insert
+* ?
+* ?
+
+DML (Lenguaje Manipulador de datos)
+* insert
+* update
+* delect 
+* select 
