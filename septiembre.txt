@@ -187,7 +187,7 @@ Un objetivo es un objetivo si responde un ¿Que? ¿Como? ¿Para Que? y ¿Porques
 21.09.MI
 DDL (Lenguaje de definicion de datos)
 * create
-* insert
+* add?
 * ?
 * ?
 
@@ -196,3 +196,6 @@ DML (Lenguaje Manipulador de datos)
 * update
 * delect 
 * select 
+
+22.09.JU 
+Se vio las relaciones uno-uno, uno-muchos, muchos-muchos y se hicieron ejercicios para papeleria, administracion y hospital
