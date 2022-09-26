@@ -187,9 +187,11 @@ Un objetivo es un objetivo si responde un ¿Que? ¿Como? ¿Para Que? y ¿Porques
 21.09.MI
 DDL (Lenguaje de definicion de datos)
 * create
-* add?
+    * add?
 * ?
 * ?
+
+* En fin Comandos para crear eliminar actualizar y demas acciones en MySQL - WorkBench
 
 DML (Lenguaje Manipulador de datos)
 * insert
@@ -199,3 +201,25 @@ DML (Lenguaje Manipulador de datos)
 
 22.09.JU 
 Se vio las relaciones uno-uno, uno-muchos, muchos-muchos y se hicieron ejercicios para papeleria, administracion y hospital
+
+23.09.VI
+Viste CSS con presentacion en semana 3 y pusiste en practica en tu web personal
+
+24.09.SA
+
+Bootstrap: Viste sobre bootstrap en una presentacion y pusiste eso en un archivo html dentro de la carpeta html de tu web personal
+
+    Instalar y Ejemplos de uso: https://dinahosting.com/blog/bootstrap-que-es-como-instalarlo-y-ejemplos-de-uso/
+    Todos los links de la clase (Sobre Bootstrap)en index de mi html
+
+Resposive Web Desing: 
+    
+    El diseño responsive, adaptativo o responsivo es una
+    técnica de diseño web que busca la correcta
+    visualización de una misma página en distintos
+    dispositivos.
+    
+    Se trata de redimensionar y colocar los elementos de laweb de forma que se adapten 
+    al ancho de cadadispositivo permitiendo una correcta visualización yuna mejor 
+    experiencia de usuario. Se caracterizaporque los layouts (contenidos) e imágenes son 
+    fluidos y se usa código media-queries de CSS3.
