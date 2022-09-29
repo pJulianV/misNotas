@@ -223,3 +223,11 @@ Resposive Web Desing:
     al ancho de cadadispositivo permitiendo una correcta visualización yuna mejor 
     experiencia de usuario. Se caracterizaporque los layouts (contenidos) e imágenes son 
     fluidos y se usa código media-queries de CSS3.
+
+28.09.MI
+
+    Implementacion: <script src="micodigo.js"></script>
+    var = alcance contextual
+    let = alcance local
+
+    Las -funciones- se pueden llamar desde el HTML Ej: <p onclick = "suma()">No de clik aqui</p>
