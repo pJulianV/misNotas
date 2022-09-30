@@ -231,3 +231,10 @@ Resposive Web Desing:
     let = alcance local
 
     Las -funciones- se pueden llamar desde el HTML Ej: <p onclick = "suma()">No de clik aqui</p>
+
+29.09.JU 
+    Que es array.shift()?
+    Que es set?
+    push = append? yes
+    palabraRecortada = palabra.substring(0, pañabra.length - 1); ¿Como funciona (quitar ultimo caracter)?
+
