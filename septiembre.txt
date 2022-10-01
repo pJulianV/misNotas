@@ -233,8 +233,33 @@ Resposive Web Desing:
     Las -funciones- se pueden llamar desde el HTML Ej: <p onclick = "suma()">No de clik aqui</p>
 
 29.09.JU 
+
     Que es array.shift()?
     Que es set?
     push = append? yes
     palabraRecortada = palabra.substring(0, pañabra.length - 1); ¿Como funciona (quitar ultimo caracter)?
 
+30.09.VI
+    Crear algunas funciones con argumentos parametros y returns
+    Aprender sobre metodos
+    Métodos de Instancia los cuales son tareas
+    integradas realizadas por la instancia de un objeto.
+    • Métodos Estáticos que son tareas que pueden ser
+    llamadas directamente en el constructor de un
+    objeto.
+
+    MÉTODOS NUMÉRICOS:
+    • parseInt() transforma un string en número entero.
+    • parseFloat() hace lo mismo que parseInt pero en
+    este caso con un número decimal.
+
+    MÉTODOS PARA ARRAYS:
+    • length() Devuelve el número de elementos de una
+    lista.
+    • join() junta todos los elementos de una lista
+    separados por el carácter que indiquemos dentro
+    del paréntesis (entre comillas porqué será un
+    string).
+
+    Recursos:  
+        * Servidores Gratuitos: 
