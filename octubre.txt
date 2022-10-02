@@ -1,0 +1,29 @@
+OCTUBRE
+
+01.10.SA:
+    JavaScript: DOM y HTML
+
+    DOM =DOCUMENTO Object Mode
+
+    • Una -propiedad- es un valor que puede obtener o establecer (como
+    cambiar el contenido de un elemento HTML).
+    
+    • Un método es una acción que puede realizar (como agregar o
+    eliminar un elemento HTML).
+
+    • En Javascript, la forma de acceder al DOM es a través de un
+    objeto llamado document, que representa el árbol DOM de la
+    página o pestaña del navegador donde nos encontramos. En
+    su interior pueden existir varios tipos de elementos, pero
+    principalmente serán ELEMENT o NODE.
+
+    • ELEMENT: es la representación genérica de una etiqueta
+    HTML: <div>, <span>, <img>, <audio>…
+
+    • NODE: es una unidad más básica, la cuál puede ser un
+    ELEMENT o un nodo de texto.
+
+    getElementById = usar un elemento identificandolo por su id
+    innerHTML = remplazar el contenido un elemento
+    
+    programas workspace > 
