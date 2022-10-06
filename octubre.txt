@@ -27,3 +27,10 @@ OCTUBRE
     innerHTML = remplazar el contenido un elemento
     
     programas workspace > 
+
+5.Oct.MI:
+
+    * Inicio semana 5 
+    * Backend
+    * Servidores 
+    * Instalacion NetBeans, Maven y Spring Boot
