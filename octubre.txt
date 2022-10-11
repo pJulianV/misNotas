@@ -34,3 +34,7 @@ OCTUBRE
     * Backend
     * Servidores 
     * Instalacion NetBeans, Maven y Spring Boot
+
+6 y 7 Oct:
+
+    * Hacer taller implementacion de sistemas o backend y solucionar error con mysql
